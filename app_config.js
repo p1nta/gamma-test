@@ -9,7 +9,7 @@ export default {
     'transaction',
   ],
   endpoints: {
-    '/transaction/:id': 'transaction',
+    '/': 'transaction',
     '*': 'not_found',
   },
   source: [{
