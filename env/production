@@ -1,0 +1,9 @@
+NODE_ENV=production
+URL=http://localhost
+PORT=3000
+API_URL=https://fast-reef-46657.herokuapp.com
+GIT_URL=https://pentatonica.github.io/client-app-env
+
+##### Deployment Configuration #####
+AWS_DEPLOY_BUCKET_NAME=name
+AWS_DEPLOY_REGION=region
