@@ -1,4 +1,0 @@
-NODE_ENV=development
-URL=http://localhost
-PORT=3000
-API_URL=https://fast-reef-46657.herokuapp.com

@@ -1,2 +1,0 @@
-export const TRANSACTION_INIT = 'TRANSACTION:INIT';
-export const CUSTOM_ACTION = 'CUSTOM_ACTION';
