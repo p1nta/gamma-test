@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "development": "parcel ./example/example.html",
+    "development": "parcel ./examples/index.html",
     "build": "parcel build ./example/example.html -d docs --public-url ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
