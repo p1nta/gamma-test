@@ -15,7 +15,9 @@
     "gammacv": "^0.1.0"
   },
   "devDependencies": {
+    "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.6",
+    "babel-preset-env": "^1.7.0",
     "cssnano": "^4.0.4",
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^17.1.0",

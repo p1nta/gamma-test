@@ -59,4 +59,4 @@ class VideoPixelization {
   }
 }
 
-VideoPixelization({ step: 13 });
+new VideoPixelization({ step: 13 });
